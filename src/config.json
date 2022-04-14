@@ -1,0 +1,14 @@
+{
+  "settings": [
+    {
+      "route": "GET /home",
+      "burst": 10,
+      "sustained": 6
+    },
+    {
+      "route": "POST /home",
+      "burst": 20,
+      "sustained": 5
+    }
+  ]
+}
